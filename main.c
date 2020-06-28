@@ -17,6 +17,13 @@ security patch()
 feature2()
 {
 //f2 added
+feature1()
+{
+//f1 added
+
+security patch()
+{
+//security patch e\}
 }
 
 
